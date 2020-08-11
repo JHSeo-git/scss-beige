@@ -6,3 +6,34 @@
 body {
   height: 100vh;
 }
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.header {
+  max-height: 90vh;
+  width: 100%;
+  height: 2.42rem;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.33rem calc(5vw / 3);
+  position: fixed;
+  left: 0;
+  top: 0;
+  nav {
+    ul {
+      display: flex;
+    }
+  }
+  a {
+    width: 6rem;
+  }
+}
+
+main {
+  margin-top: 2.42rem;
+}

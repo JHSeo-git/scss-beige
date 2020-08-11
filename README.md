@@ -4,7 +4,7 @@
 
 Practice to nomadcoder clone project
 
-- demo : 
+- demo : https://jhseo-git.github.io/scss-beige/
 - target : [https://beige.de/](https://beige.de/)
 
 ## To Clone:
